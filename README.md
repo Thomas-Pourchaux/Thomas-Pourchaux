@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Thomas 👋
 
-<!--
-**Thomas-Pourchaux/Thomas-Pourchaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Methods technician moving into **data and AI applied to logistics and supply chain**.
 
-Here are some ideas to get you started:
+## What I'm learning right now
+- Python fundamentals with CS50P (Harvard)
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My goal
+Bring my background in industrial methods and continuous improvement
+to data and AI projects in logistics: flow analysis, forecasting and automation.
+
+## My journey
+I document my learning in
+[thomas-ai-learning-journey](https://github.com/Thomas-Pourchaux/thomas-ai-learning-journey).
